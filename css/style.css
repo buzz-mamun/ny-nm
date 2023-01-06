@@ -102,9 +102,6 @@ main .failure-container{
 
 /* ---------------------------Failure Section End Here------------------------------ */
 
-.my-plan-container{
-
-}
 .my-plan-container .my-plan-text{
     font-size: 40px;
     font-weight: 700;
@@ -142,4 +139,56 @@ main .failure-container{
     font-weight: 500;
     line-height: 29px;
     text-align: center;
+}
+
+/* ----------------My Plans Section Ends Here--------------- */
+
+.positive-container{
+    background-image: linear-gradient(to right, #e0693aea, #f15d221f),
+    url('../pic/Alwayskeep_bg.png');
+    background-size: cover;
+    margin-left: 260px;
+    margin-right: 260px;
+    padding-top: 59px;
+    padding-bottom: 160px;
+    margin-bottom: 130px;
+    border-radius: 8px;
+}
+.positive-container .positive-mindset{
+    margin-top: 60px;
+    margin-left: 64px;
+    margin-bottom: 24px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    color: whitesmoke;
+}
+.positive-container .call-now-btn{
+    position: absolute;
+    margin-left: 64px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 23px;
+    padding: 20px 36px;
+    color: #F15B22;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 7px;
+}
+.positive-container .call-now-btn:hover{
+    color: whitesmoke;
+    background-color: #F15B22;
+    border: 2.5px solid whitesmoke;
+}
+
+/* ------------------------Positive Section Ends Here----------------------------- */
+
+.footer-section{
+    padding-top: 130px;
+    padding-bottom: 130px;
+    padding-left: 220px;
+    padding-right: 220px;
+    background-color: #151414;
+    display: flex;
 }
