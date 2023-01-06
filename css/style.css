@@ -57,7 +57,9 @@ header .header_contact_btn:focus{
 }
 
 /* -----------------header section ends here--------------- */
-
+main{
+    background-color: white;
+}
 main .failure-container{
     margin-left: 206px;
     margin-right: 322px;
