@@ -99,6 +99,10 @@ main .failure-container{
     margin-bottom: -2px;
     margin-right: 14px;
 }
+.failure-container .check-mark:hover{
+    width: 20px;
+    height: 13px;
+}
 
 /* ---------------------------Failure Section End Here------------------------------ */
 
@@ -127,6 +131,10 @@ main .failure-container{
     height: 91px;
     width: 91px;
     left: 29%;
+}
+.my-plan-container .plan-icons:hover{
+    height: 94px;
+    width: 94px;
 }
 .my-plan-container .plan-heading{
     font-size: 30px;
@@ -177,6 +185,11 @@ main .failure-container{
     border-radius: 7px;
 }
 .positive-container .call-now-btn:hover{
+    color: whitesmoke;
+    background-color: #F15B22;
+    border: 2.5px solid whitesmoke;
+}
+.positive-container .call-now-btn:focus{
     color: whitesmoke;
     background-color: #F15B22;
     border: 2.5px solid whitesmoke;
