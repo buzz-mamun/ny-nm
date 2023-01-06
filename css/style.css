@@ -115,10 +115,31 @@ main .failure-container{
 }
 .my-plan-container > ul{
     display: flex;
-    align-items: center;
-    justify-content: center;
+    justify-content: space-around;
+    margin-left: 229px;
+    margin: 229px;
+}
+.my-plan-container .plans{
+    /* margin-right: 36px;
+    margin-left: 36px; */
+    list-style: none;
 }
 .my-plan-container .plan-icons{
-    height: 93px;
-    width: 93px;
+    position: relative;
+    display: inline-block;
+    height: 91px;
+    width: 91px;
+    left: 29%;
+}
+.my-plan-container .plan-heading{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35px;
+    text-align: center;
+}
+.my-plan-container .plan-description{
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 29px;
+    text-align: center;
 }
