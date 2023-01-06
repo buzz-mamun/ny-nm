@@ -154,6 +154,9 @@ main .failure-container{
 /* ----------------My Plans Section Ends Here--------------- */
 
 .positive-container{
+    padding-bottom: 130px;
+}
+.positive-box{
     background-image: linear-gradient(to right, #e0693aea, #f15d221f),
     url('../pic/Alwayskeep_bg.png');
     background-size: cover;
@@ -161,7 +164,6 @@ main .failure-container{
     margin-right: 260px;
     padding-top: 59px;
     padding-bottom: 160px;
-    margin-bottom: 130px;
     border-radius: 8px;
 }
 .positive-container .positive-mindset{
