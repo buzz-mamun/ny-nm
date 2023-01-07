@@ -134,10 +134,6 @@ main .failure-container{
     width: 91px;
     left: 29%;
 }
-.my-plan-container .plan-icons:hover{
-    height: 94px;
-    width: 94px;
-}
 .my-plan-container .plan-heading{
     font-size: 30px;
     font-weight: 700;
