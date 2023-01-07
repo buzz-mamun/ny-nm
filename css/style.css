@@ -48,6 +48,7 @@ header .header_contact_btn:hover{
     color: #F15B22;
     border: 1px solid #F15B22;
     border-radius: 7px;
+    cursor: pointer;
 }
 header .header_contact_btn:focus{
     background-color: #da4c14;
@@ -100,10 +101,6 @@ main .failure-container{
     height: 12px;
     margin-bottom: -2px;
     margin-right: 14px;
-}
-.failure-container .check-mark:hover{
-    width: 20px;
-    height: 13px;
 }
 
 /* ---------------------------Failure Section End Here------------------------------ */
@@ -246,6 +243,7 @@ main .failure-container{
     color: whitesmoke;
     background-color: #F15B22;
     border: 2.5px solid whitesmoke;
+    cursor: pointer;
 }
 .positive-container .call-now-btn:focus{
     color: whitesmoke;
@@ -335,6 +333,7 @@ main .failure-container{
     color: whitesmoke;
     background-color: #F15B22;
     border: 1px solid whitesmoke;
+    cursor: pointer;
 }
 .footer-section .sub-btn:focus{
     color: #F15B22;
