@@ -152,6 +152,64 @@ main .failure-container{
 }
 
 /* ----------------My Plans Section Ends Here--------------- */
+.goal-container{
+    margin-bottom: 80px;
+}
+
+.goal-container .my-goal{
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.goal-container .goal-ulist{
+    display: flex;
+    justify-content: center;
+     
+    margin-left: 280px;
+    margin-right: 280px;
+}
+.goal-container .goals{
+    padding: 26px 20px;
+    align-items: center; 
+    list-style: none; 
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 60px;
+    border-radius: 8px;
+}
+.goal-container .g-1{
+    background-color: aliceblue;
+}
+.goal-container .g-2{
+    background-color: aqua;
+}
+.goal-container .g-3{
+    background-color: aquamarine;
+}
+.goal-container .g-4{
+    background-color: beige;
+}
+.goal-container .goal-icon{
+    height: 96px;
+    width: 96px;
+}
+.goal-container .goal-heading{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: 26px;
+    font-weight: 300px;
+}
+.goal-container .goal-description{
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+
+
 
 .positive-container{
     padding-bottom: 130px;
