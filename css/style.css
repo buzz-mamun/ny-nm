@@ -256,8 +256,8 @@ main .failure-container{
 .footer-section{
     padding-top: 130px;
     padding-bottom: 100px;
-    padding-left: 220px;
-    padding-right: 220px;
+    padding-left: 210px;
+    padding-right: 210px;
     background-color: #151414;
     display: flex;
 }
@@ -327,7 +327,7 @@ main .failure-container{
     padding: 20px 36px;
     margin-top: 20px;
     border-radius: 8px;
-    border: none;
+    border: 1px solid transparent;
 }
 .footer-section .sub-btn:hover{
     color: whitesmoke;
